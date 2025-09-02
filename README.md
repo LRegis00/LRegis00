@@ -4,8 +4,7 @@
 
 Minha jornada começou no **SESI**, com o curso técnico em **Mecatrônica**, depois no **SENAI**, onde concluí o técnico em **Desenvolvimento de Sistemas**. Atualmente, curso **Sistemas de Informação**, sigo evoluindo com foco em boas práticas e no aperfeiçoamento das minhas habilidades como desenvolvedor. Estou direcionando minha carreira para o **Desenvolvimento Front-End**, explorando a criação de interfaces modernas e funcionais para oferecer boas experiências ao usuário.
 
-
-    <a href="https://github.com/LRegis00?tab=repositories&sort=stargazers">
+<a href="https://github.com/LRegis00?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
