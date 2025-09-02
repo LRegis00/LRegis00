@@ -2,7 +2,10 @@
 
 **`Desenvolvedor Front-end | Salvador - BA  `**
 
-Minha jornada começou no **SESI**, com o curso técnico em **Mecatrônica**, depois no **SENAI**, onde concluí o técnico em **Desenvolvimento de Sistemas**. Atualmente, curso **Sistemas de Informação**, sigo evoluindo com foco em boas práticas e no aperfeiçoamento das minhas habilidades como desenvolvedor. Estou direcionando minha carreira para o **Desenvolvimento Front-End**, explorando a criação de interfaces modernas e funcionais para oferecer boas experiências ao usuário.
+Minha jornada começou no **SESI**, com o curso técnico em **Mecatrônica**, e seguiu no **SENAI**, onde concluí o técnico em **Desenvolvimento de Sistemas**.  
+Atualmente curso **Sistemas de Informação**, aprimorando minhas habilidades em programação e boas práticas de desenvolvimento.  
+Estou direcionando minha carreira para o **Desenvolvimento Front-End**, criando interfaces modernas e funcionais que proporcionam experiências de usuário intuitivas e de qualidade.
+
 
 <a href="https://github.com/LRegis00?tab=repositories&sort=stargazers">
         <img 
